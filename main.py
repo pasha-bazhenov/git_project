@@ -1,1 +1,1 @@
-print("Hello wotld")
+print("Hello Linux")
